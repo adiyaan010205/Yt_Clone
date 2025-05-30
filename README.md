@@ -53,7 +53,7 @@ A responsive YouTube clone web application that faithfully replicates YouTube's 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/adiyaan010205/Yt_Clone.git
    ```
 2. **Open `index.html` in your browser.**
 
